@@ -1,0 +1,60 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(150, 145, 115);
+    margin: 10px;
+    padding: 40px;
+     font-size: 25px;
+}
+  .logo{
+    width: 60px;
+    }
+h1{
+    text-align: center;
+}
+main{
+   
+}
+img{
+    width: 250px;
+}
+div{
+    display: flex;
+    justify-content:space-around ;
+    border: 3px solid gold;
+}
+.imgh{
+    display: block;
+    text-align: center;
+    
+}
+.ing{
+    height: 350px;
+    width: auto;
+    
+}
+.principles {
+    display: flex;
+    border-top: 5px solid navy;
+    border-bottom: 5px solid navy;
+    justify-content: space-between; 
+    width: 900px;
+    margin: 0 40px;
+    padding: 20px;
+    text-align: center;
+}
+.principle {
+    width: 150px;
+    display: flex;       
+    flex-direction: column; 
+    align-items: center;
+}
+.principl{
+    align-items: center;
+    display: flex;
+} 
+nav {
+    border-top: 3px solid gold;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 3px solid gold;
+}
